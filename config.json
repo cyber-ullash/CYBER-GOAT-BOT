@@ -30,8 +30,8 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": "𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 ᵁᴸᴸᴬˢᴴ",
-  "prefix": "!",
+  "nickNameBot": "Rudro bot",
+  "prefix": ",",
   "usePrefix": {
     "enable": true,
     "adminUsePrefix": {
@@ -45,26 +45,26 @@
   "adminOnly": {
     "enable": false,
     "ignoreCommand": [
-      "100082395531611",
-      "100015168369582"
+      "100057154284371",
+      "100057154284371"
     ]
   },
   "adminBot": [
-    "100082395531611",
-    "100015168369582"
+    "100057154284371",
+    "100057154284371"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100082395531611",
-      "100015168369582"
+      "100057154284371",
+      "100057154284371"
     ]
   },
   "whiteListModeThread": {
     "enable": false,
     "whiteListThreadIds": [
-      "6601227983317461",
-      "9832241216832773"
+      "100057154284371",
+      "100057154284371"
     ]
   },
   "showLoginTitle": false,
