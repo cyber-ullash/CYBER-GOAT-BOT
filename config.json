@@ -30,15 +30,15 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": "𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 ᵁᴸᴸᴬˢᴴ",
+  "nickNameBot": "𝑹𝒂𝒊𝒔𝒂🕊️",
   "prefix": "!",
   "usePrefix": {
     "enable": true,
     "adminUsePrefix": {
       "enable": true,
       "specificUids": [
-        "100082395531611",
-        "100015168369582"
+        "100090889518828",
+        ""
       ]
     }
   },
@@ -50,8 +50,8 @@
     ]
   },
   "adminBot": [
-    "100082395531611",
-    "100015168369582"
+    "100090889518828",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
